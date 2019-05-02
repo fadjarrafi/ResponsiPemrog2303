@@ -1,0 +1,6 @@
+c:\users\john travolta\documents\visual studio 2013\Projects\utspemrog\utspemrog\bin\Debug\utspemrog.exe.config
+c:\users\john travolta\documents\visual studio 2013\Projects\utspemrog\utspemrog\obj\Debug\utspemrog.csprojResolveAssemblyReference.cache
+c:\users\john travolta\documents\visual studio 2013\Projects\utspemrog\utspemrog\bin\Debug\utspemrog.exe
+c:\users\john travolta\documents\visual studio 2013\Projects\utspemrog\utspemrog\bin\Debug\utspemrog.pdb
+c:\users\john travolta\documents\visual studio 2013\Projects\utspemrog\utspemrog\obj\Debug\utspemrog.exe
+c:\users\john travolta\documents\visual studio 2013\Projects\utspemrog\utspemrog\obj\Debug\utspemrog.pdb
